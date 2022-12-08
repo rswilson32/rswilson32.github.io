@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2022-12-07T17:55:33-08:00</updated>
+    <updated>2022-12-07T18:07:09-08:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://rswilson32.github.io/fowler-analysis/"/>
         <id>https://rswilson32.github.io/fowler-analysis/</id>
 
-        <updated>2022-12-07T17:53:55-08:00</updated>
+        <updated>2022-12-07T18:07:09-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/7/ucla.jpg" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/7/fowler-3.jpg" alt="" />
                     testing 123!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/7/ucla.jpg" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/7/fowler-3.jpg" alt="" />
                 <p>testing 123!</p>
             ]]>
         </content>
@@ -111,16 +111,16 @@
         <link href="https://rswilson32.github.io/projects/"/>
         <id>https://rswilson32.github.io/projects/</id>
 
-        <updated>2022-12-07T17:55:33-08:00</updated>
+        <updated>2022-12-07T18:04:13-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/2/beer-2.jpeg" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/2/drinking.jpg" alt="" />
                     This Python model monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from Calculus &amp; Mathematica by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/2/beer-2.jpeg" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/2/drinking.jpg" alt="" />
                 <p>This <a href="https://github.com/rswilson32/BAC">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>
 <hr>
 <h4> </h4>
