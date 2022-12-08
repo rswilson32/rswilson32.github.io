@@ -30,14 +30,14 @@
             "title": "DataFest 2022",
             "summary": "My team and I (the Data Dudes) competed in the UCLA ASA Datafest, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won&hellip;",
             "content_html": "<p>My team and I (the Data Dudes) competed in the <a href=\"http://datafest.stat.ucla.edu/about/about-asa-datafest/\">UCLA ASA Datafest</a>, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won for our analysis of varying attention and interest levels among children. This experience strenghened my statistical skills and my coding abilities with extensive amounts of data! </p>\n<hr>\n<p> </p>",
-            "image": "https://rswilson32.github.io/media/posts/6/flcl.webp",
+            "image": "https://rswilson32.github.io/media/posts/6/datafest.png",
             "author": {
                 "name": "Roger"
             },
             "tags": [
             ],
             "date_published": "2022-11-27T23:17:14-08:00",
-            "date_modified": "2022-11-28T13:15:21-08:00"
+            "date_modified": "2022-12-07T17:39:10-08:00"
         },
         {
             "id": "https://rswilson32.github.io/california-commuting-patterns/",
@@ -82,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2022-11-27T21:58:21-08:00",
-            "date_modified": "2022-11-27T23:10:43-08:00"
+            "date_modified": "2022-12-07T17:38:45-08:00"
         }
     ]
 }
