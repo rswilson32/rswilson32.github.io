@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2022-12-07T18:07:09-08:00</updated>
+    <updated>2022-12-08T09:47:26-08:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,17 +17,18 @@
         <link href="https://rswilson32.github.io/fowler-analysis/"/>
         <id>https://rswilson32.github.io/fowler-analysis/</id>
 
-        <updated>2022-12-07T18:07:09-08:00</updated>
+        <updated>2022-12-08T09:47:26-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/7/fowler-3.jpg" alt="" />
-                    testing 123!
+                    Fowler Analysis
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://rswilson32.github.io/media/posts/7/fowler-3.jpg" alt="" />
-                <p>testing 123!</p>
+                <p><a href="https://rswilson32.github.io/fowler-analysis/">Fowler Analysis</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>

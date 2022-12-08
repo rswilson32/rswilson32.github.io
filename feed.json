@@ -13,8 +13,8 @@
             "id": "https://rswilson32.github.io/fowler-analysis/",
             "url": "https://rswilson32.github.io/fowler-analysis/",
             "title": "Fowler Analysis",
-            "summary": "testing 123!",
-            "content_html": "<p>testing 123!</p>",
+            "summary": "Fowler Analysis",
+            "content_html": "<p><a href=\"https://rswilson32.github.io/fowler-analysis/\">Fowler Analysis</a></p>\n<p> </p>",
             "image": "https://rswilson32.github.io/media/posts/7/fowler-3.jpg",
             "author": {
                 "name": "Roger"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-11-27T23:18:08-08:00",
-            "date_modified": "2022-12-07T18:07:09-08:00"
+            "date_modified": "2022-12-08T09:47:26-08:00"
         },
         {
             "id": "https://rswilson32.github.io/datafest-2022/",
