@@ -13,8 +13,7 @@
             "id": "https://rswilson32.github.io/fowler-analysis/",
             "url": "https://rswilson32.github.io/fowler-analysis/",
             "title": "Fowler Analysis",
-            "summary": "Fowler Analysis",
-            "content_html": "<p><a href=\"https://rswilson32.github.io/fowler-analysis/\">Fowler Analysis</a></p>\n<p> </p>",
+            "content_html": "<p> </p>\n<p> </p>",
             "image": "https://rswilson32.github.io/media/posts/7/fowler-3.jpg",
             "author": {
                 "name": "Roger"
@@ -22,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2022-11-27T23:18:08-08:00",
-            "date_modified": "2022-12-08T09:47:26-08:00"
+            "date_modified": "2022-12-08T09:47:53-08:00"
         },
         {
             "id": "https://rswilson32.github.io/datafest-2022/",
@@ -44,7 +43,7 @@
             "url": "https://rswilson32.github.io/california-commuting-patterns/",
             "title": "California Commuting Patterns",
             "summary": "For this California commuting project , I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the&hellip;",
-            "content_html": "<p>For this <a href=\"https://github.com/rswilson32/CA_commute\"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>\n<hr>\n<p> </p>",
+            "content_html": "<p>For this <a href=\"https://github.com/rswilson32/CA_commute\"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>\n<p>Here are some key visualizations:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/5/ca_pop\" alt=\"\" width=\"1920\" height=\"1344\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/5/city\" alt=\"\" width=\"1920\" height=\"1344\"></figure>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/5/best\" alt=\"\" width=\"1920\" height=\"1344\"></figure>\n<hr>\n<p> </p>",
             "image": "https://rswilson32.github.io/media/posts/5/traffic-2.jpg",
             "author": {
                 "name": "Roger"
@@ -52,14 +51,14 @@
             "tags": [
             ],
             "date_published": "2022-11-27T23:12:51-08:00",
-            "date_modified": "2022-12-07T17:53:25-08:00"
+            "date_modified": "2022-12-08T09:58:55-08:00"
         },
         {
             "id": "https://rswilson32.github.io/heart-disease-analysis/",
             "url": "https://rswilson32.github.io/heart-disease-analysis/",
             "title": "Heart Disease Analysis",
             "summary": "This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy.",
-            "content_html": "<p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href=\"https://github.com/rswilson32/heart_disease_analysis\"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>\n<hr>\n<p> </p>",
+            "content_html": "<p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href=\"https://github.com/rswilson32/heart_disease_analysis\"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>\n<p>Below is a quick visualization of the patient attributes:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/4/heart_graphs.png\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-xl.png 1600w\"  alt=\"\" width=\"747\" height=\"1933\"></figure>\n<p>. . . and here are the results!</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/4/results.png\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://rswilson32.github.io/media/posts/4/responsive/results-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/results-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/results-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/results-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/results-xl.png 1600w\"  alt=\"\" width=\"719\" height=\"364\"></figure>This was my first ever machine learning model, so it was a great learning experience. I completed this summer 2022.</p>\n<hr>\n<p> </p>",
             "image": "https://rswilson32.github.io/media/posts/4/heart-2.jpg",
             "author": {
                 "name": "Roger"
@@ -67,14 +66,14 @@
             "tags": [
             ],
             "date_published": "2022-11-27T23:12:02-08:00",
-            "date_modified": "2022-12-07T17:50:43-08:00"
+            "date_modified": "2022-12-08T09:52:43-08:00"
         },
         {
             "id": "https://rswilson32.github.io/projects/",
             "url": "https://rswilson32.github.io/projects/",
             "title": " BAC model",
             "summary": "This Python model monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from Calculus &amp; Mathematica by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley&hellip;",
-            "content_html": "<p>This <a href=\"https://github.com/rswilson32/BAC\">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>\n<hr>\n<h4> </h4>",
+            "content_html": "<p>This <a href=\"https://github.com/rswilson32/BAC\">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>\n<p>Here's an example:</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://rswilson32.github.io/media/posts/2/example_BAC.jpg\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://rswilson32.github.io/media/posts/2/responsive/example_BAC-xs.jpg 384w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-sm.jpg 600w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-md.jpg 768w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-lg.jpg 1200w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-xl.jpg 1600w\"  alt=\"\" width=\"630\" height=\"455\"></figure>\n<hr>\n<h4> </h4>",
             "image": "https://rswilson32.github.io/media/posts/2/drinking.jpg",
             "author": {
                 "name": "Roger"
@@ -82,7 +81,7 @@
             "tags": [
             ],
             "date_published": "2022-11-27T21:58:21-08:00",
-            "date_modified": "2022-12-07T18:04:13-08:00"
+            "date_modified": "2022-12-08T10:06:19-08:00"
         }
     ]
 }
