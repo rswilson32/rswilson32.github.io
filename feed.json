@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "personal_website",
+    "title": "rswilson32.github.io",
     "description": "",
     "home_page_url": "https://rswilson32.github.io",
     "feed_url": "https://rswilson32.github.io/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://rswilson32.github.io/fowler-analysis.html",
-            "url": "https://rswilson32.github.io/fowler-analysis.html",
+            "id": "https://rswilson32.github.io/fowler-analysis/",
+            "url": "https://rswilson32.github.io/fowler-analysis/",
             "title": "Fowler Analysis",
             "summary": "testing 123!",
             "content_html": "<p>testing 123!</p>",
@@ -25,8 +25,8 @@
             "date_modified": "2022-11-28T13:14:51-08:00"
         },
         {
-            "id": "https://rswilson32.github.io/datafest-2022.html",
-            "url": "https://rswilson32.github.io/datafest-2022.html",
+            "id": "https://rswilson32.github.io/datafest-2022/",
+            "url": "https://rswilson32.github.io/datafest-2022/",
             "title": "DataFest 2022",
             "summary": "My team and I (the Data Dudes) competed in the UCLA ASA Datafest, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won&hellip;",
             "content_html": "<p>My team and I (the Data Dudes) competed in the <a href=\"http://datafest.stat.ucla.edu/about/about-asa-datafest/\">UCLA ASA Datafest</a>, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won for our analysis of varying attention and interest levels among children. This experience strenghened my statistical skills and my coding abilities with extensive amounts of data! </p>\n<hr>\n<p> </p>",
@@ -40,8 +40,8 @@
             "date_modified": "2022-11-28T13:15:21-08:00"
         },
         {
-            "id": "https://rswilson32.github.io/california-commuting-patterns.html",
-            "url": "https://rswilson32.github.io/california-commuting-patterns.html",
+            "id": "https://rswilson32.github.io/california-commuting-patterns/",
+            "url": "https://rswilson32.github.io/california-commuting-patterns/",
             "title": "California Commuting Patterns",
             "summary": "For this California commuting project , I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the&hellip;",
             "content_html": "<p>For this <a href=\"https://github.com/rswilson32/CA_commute\"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>\n<hr>\n<p> </p>",
@@ -55,8 +55,8 @@
             "date_modified": "2022-12-07T17:10:10-08:00"
         },
         {
-            "id": "https://rswilson32.github.io/heart-disease-analysis.html",
-            "url": "https://rswilson32.github.io/heart-disease-analysis.html",
+            "id": "https://rswilson32.github.io/heart-disease-analysis/",
+            "url": "https://rswilson32.github.io/heart-disease-analysis/",
             "title": "Heart Disease Analysis",
             "summary": "This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy.",
             "content_html": "<p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href=\"https://github.com/rswilson32/heart_disease_analysis\"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>\n<hr>\n<p> </p>",
@@ -70,8 +70,8 @@
             "date_modified": "2022-11-27T23:12:02-08:00"
         },
         {
-            "id": "https://rswilson32.github.io/projects.html",
-            "url": "https://rswilson32.github.io/projects.html",
+            "id": "https://rswilson32.github.io/projects/",
+            "url": "https://rswilson32.github.io/projects/",
             "title": " BAC model",
             "summary": "This Python model monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from Calculus &amp; Mathematica by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley&hellip;",
             "content_html": "<p>This <a href=\"https://github.com/rswilson32/BAC\">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>\n<hr>\n<h4> </h4>",
