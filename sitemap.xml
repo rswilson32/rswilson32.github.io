@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://rswilson32.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://rswilson32.github.io/</loc>
+</url>
+<url>
+<loc>https://rswilson32.github.io/california-commuting-patterns.html</loc>
+<lastmod>2022-12-07T17:10:10-08:00</lastmod>
+<image:image>
+<image:loc>https://rswilson32.github.io/media\posts\5/traffic.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rswilson32.github.io/datafest-2022.html</loc>
+<lastmod>2022-11-28T13:15:21-08:00</lastmod>
+<image:image>
+<image:loc>https://rswilson32.github.io/media\posts\6/flcl.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rswilson32.github.io/fowler-analysis.html</loc>
+<lastmod>2022-11-28T13:14:51-08:00</lastmod>
+<image:image>
+<image:loc>https://rswilson32.github.io/media\posts\7/ucla.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rswilson32.github.io/heart-disease-analysis.html</loc>
+<lastmod>2022-11-27T23:12:02-08:00</lastmod>
+<image:image>
+<image:loc>https://rswilson32.github.io/media\posts\4/heart.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://rswilson32.github.io/projects.html</loc>
+<lastmod>2022-11-27T23:10:43-08:00</lastmod>
+<image:image>
+<image:loc>https://rswilson32.github.io/media\posts\2/beer.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
