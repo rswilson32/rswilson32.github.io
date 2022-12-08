@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2022-12-07T17:39:10-08:00</updated>
+    <updated>2022-12-07T17:55:33-08:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,16 +17,16 @@
         <link href="https://rswilson32.github.io/fowler-analysis/"/>
         <id>https://rswilson32.github.io/fowler-analysis/</id>
 
-        <updated>2022-11-28T13:14:51-08:00</updated>
+        <updated>2022-12-07T17:53:55-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/7/ucla.webp" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/7/ucla.jpg" alt="" />
                     testing 123!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/7/ucla.webp" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/7/ucla.jpg" alt="" />
                 <p>testing 123!</p>
             ]]>
         </content>
@@ -39,16 +39,16 @@
         <link href="https://rswilson32.github.io/datafest-2022/"/>
         <id>https://rswilson32.github.io/datafest-2022/</id>
 
-        <updated>2022-12-07T17:39:10-08:00</updated>
+        <updated>2022-12-07T17:49:58-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/6/datafest.png" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/6/datafest-2.png" alt="" />
                     My team and I (the Data Dudes) competed in the UCLA ASA Datafest, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/6/datafest.png" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/6/datafest-2.png" alt="" />
                 <p>My team and I (the Data Dudes) competed in the <a href="http://datafest.stat.ucla.edu/about/about-asa-datafest/">UCLA ASA Datafest</a>, an annual statistics competition. We were given 40 hours to analyze Yale research PLAY2PREVENT data focused on behavioral patterns in children. We made it through 2 rounds of presentations and surpassed 70 other teams. Our team won for our analysis of varying attention and interest levels among children. This experience strenghened my statistical skills and my coding abilities with extensive amounts of data! </p>
 <hr>
 <p> </p>
@@ -63,16 +63,16 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns/</id>
 
-        <updated>2022-12-07T17:10:10-08:00</updated>
+        <updated>2022-12-07T17:53:25-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/5/traffic.webp" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
                     For this California commuting project , I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/5/traffic.webp" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
                 <p>For this <a href="https://github.com/rswilson32/CA_commute"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>
 <hr>
 <p> </p>
@@ -87,16 +87,16 @@
         <link href="https://rswilson32.github.io/heart-disease-analysis/"/>
         <id>https://rswilson32.github.io/heart-disease-analysis/</id>
 
-        <updated>2022-11-27T23:12:02-08:00</updated>
+        <updated>2022-12-07T17:50:43-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/4/heart.jpg" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
                     This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/4/heart.jpg" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
                 <p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href="https://github.com/rswilson32/heart_disease_analysis"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>
 <hr>
 <p> </p>
@@ -111,16 +111,16 @@
         <link href="https://rswilson32.github.io/projects/"/>
         <id>https://rswilson32.github.io/projects/</id>
 
-        <updated>2022-12-07T17:38:45-08:00</updated>
+        <updated>2022-12-07T17:55:33-08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/2/beer.jpeg" alt="" />
+                        <img src="https://rswilson32.github.io/media/posts/2/beer-2.jpeg" alt="" />
                     This Python model monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from Calculus &amp; Mathematica by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/2/beer.jpeg" alt="" />
+                    <img src="https://rswilson32.github.io/media/posts/2/beer-2.jpeg" alt="" />
                 <p>This <a href="https://github.com/rswilson32/BAC">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>
 <hr>
 <h4> </h4>
