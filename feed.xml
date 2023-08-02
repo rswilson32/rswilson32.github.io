@@ -3,12 +3,28 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-06-01T12:38:16-07:00</updated>
+    <updated>2023-08-02T10:50:22-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
     <id>https://rswilson32.github.io</id>
 
+    <entry>
+        <title>METRO!!!</title>
+        <author>
+            <name>Roger</name>
+        </author>
+        <link href="https://rswilson32.github.io/metro/"/>
+        <id>https://rswilson32.github.io/metro/</id>
+
+        <updated>2023-08-02T10:50:22-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div id="plotly-animation-container"><!-- Include the content of your 'bike_day_heatmap.html' file here --> <div class="post__iframe"><iframe loading="lazy" width="600" height="600" style="width: 623px; height: 623px;" src="https://rswilson32.github.io/media/posts/10/bike_day_heatmap-2.html" frameborder="0"></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bike Rental Model</title>
         <author>
