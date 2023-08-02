@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-08-02T11:24:08-07:00</updated>
+    <updated>2023-08-02T11:37:32-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -107,7 +107,7 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns/</id>
 
-        <updated>2023-08-02T11:24:08-07:00</updated>
+        <updated>2023-08-02T11:37:32-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
@@ -119,14 +119,14 @@
                     <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
                 <p>For this <a href="https://github.com/rswilson32/CA_commute"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>
 <p>Here are some key visualizations:</p>
-<figure class="post__image post__image--center rounded-corners"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/California-2" alt="" width="1920" height="1344"></figure>We can see across the board, Californians overwhelmingly drive to work. 83% of residents do so.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/California-2" alt="" width="1920" height="1344"></figure>We can see across the board, Californians overwhelmingly drive to work. 83% of residents do so.</p>
 <p> </p>
-<figure class="post__image post__image--center rounded-corners"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/LA" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/LA" alt="" width="1920" height="1344"></figure>
 <p>However, in more urban areas like Los Angeles, we see a below-average number of commuters driving to work, meaning that there is more reliance on other forms of transportation.</p>
 <p> </p>
-<figure class="post__image post__image--center rounded-corners"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/best" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/best" alt="" width="1920" height="1344"></figure>
 <p>These are the least car dependent cities in California. It's interesting to see the percentages of commuters that bike, walk, carpool, take the bus, or work from home.</p>
-<figure class="post__image post__image--center rounded-corners"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/BA" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/BA" alt="" width="1920" height="1344"></figure>
 <p>We can also see that the San Francisco area is probably the least car dependent in the state. Only 50% of residents drive alone to work.</p>
 <hr>
 <p> </p>
