@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-08-02T11:40:03-07:00</updated>
+    <updated>2023-08-24T13:16:35-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -33,7 +33,7 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns-2/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns-2/</id>
 
-        <updated>2023-06-01T12:38:16-07:00</updated>
+        <updated>2023-08-24T12:35:45-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/9/biking.webp" alt="" />
@@ -107,7 +107,7 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns/</id>
 
-        <updated>2023-08-02T11:40:03-07:00</updated>
+        <updated>2023-08-24T12:34:32-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
@@ -119,14 +119,14 @@
                     <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
                 <p>For this <a href="https://github.com/rswilson32/CA_commute"> California commuting project </a>, I looked at the distributions of Californians that prefer each mode of transportation for work on the county and city level. This data set contains data on modes of transportation to work for Californian Residents aged 16 years and older. Data is from the U.S. Census Bureau, Decennial Census and American Community Survey. This project was great practice with R and the tidyverse tools. I am more confident in working with geographical data and data visualization.</p>
 <p>Here are some key visualizations:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/California-2" alt="" width="1920" height="1344"></figure>We can see across the board, Californians overwhelmingly drive to work. 83% of residents do so.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/5/California-2" alt="" width="1920" height="1344"></figure>We can see across the board, Californians overwhelmingly drive to work. 83% of residents do so.</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/LA" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/5/LA" alt="" width="1920" height="1344"></figure>
 <p>However, in more urban areas like Los Angeles, we see a below-average number of commuters driving to work, meaning that there is more reliance on other forms of transportation.</p>
 <p> </p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/best" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/5/best" alt="" width="1920" height="1344"></figure>
 <p>These are the least car dependent cities in California. It's interesting to see the percentages of commuters that bike, walk, carpool, take the bus, or work from home.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/5/BA" alt="" width="1920" height="1344"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/5/BA" alt="" width="1920" height="1344"></figure>
 <p>We can also see that the San Francisco area is probably the least car dependent in the state. Only 50% of residents drive alone to work.</p>
 <hr>
 <p> </p>
@@ -141,7 +141,7 @@
         <link href="https://rswilson32.github.io/heart-disease-analysis/"/>
         <id>https://rswilson32.github.io/heart-disease-analysis/</id>
 
-        <updated>2022-12-08T09:52:43-08:00</updated>
+        <updated>2023-08-24T13:16:35-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
@@ -152,10 +152,78 @@
             <![CDATA[
                     <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
                 <p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href="https://github.com/rswilson32/heart_disease_analysis"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>
+<p>Our attributes:</p>
+<ul>
+<li><strong>age:</strong> The age of the patient</li>
+<li><strong>sex:</strong> The sex of the patient
+<ul>
+<li>1: Male</li>
+<li>0: Female</li>
+</ul>
+</li>
+<li><strong>cp:</strong> Chest pain type
+<ul>
+<li>1: Typical angina</li>
+<li>2: Atypical angina</li>
+<li>3: Non-anginal pain</li>
+<li>4: Asymptomatic</li>
+</ul>
+</li>
+<li><strong>trestbps:</strong> Resting blood pressure (in mm Hg on admission to the hospital)</li>
+<li><strong>chol:</strong> Serum cholestoral in mg/dl</li>
+<li><strong>fbs:</strong> Fasting blood sugar &gt; 120 mg/dl
+<ul>
+<li>1: True</li>
+<li>0: False</li>
+</ul>
+</li>
+<li><strong>restecg:</strong> Resting electrocardiographic results
+<ul>
+<li>0: Normal</li>
+<li>1: Having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)</li>
+<li>2: Showing probable or definite left ventricular hypertrophy by Estes' criteria</li>
+</ul>
+</li>
+<li><strong>thalach:</strong> Maximum heart rate achieved</li>
+<li><strong>exang:</strong> Exercise-induced angina
+<ul>
+<li>1: Yes</li>
+<li>0: No</li>
+</ul>
+</li>
+<li><strong>oldpeak:</strong> ST depression induced by exercise relative to rest</li>
+<li><strong>slope:</strong> The slope of the peak exercise ST segment
+<ul>
+<li>1: Upsloping</li>
+<li>2: Flat</li>
+<li>3: Downsloping</li>
+</ul>
+</li>
+<li><strong>ca:</strong> Number of major vessels (0-3) colored by fluoroscopy</li>
+<li><strong>thal:</strong> A blood disorder called thalassemia
+<ul>
+<li>3: Fixed defect (no blood flow in some part of the heart)</li>
+<li>6: Normal blood flow</li>
+<li>7: Reversible defect (a blood flow is observed but it is not normal)</li>
+</ul>
+</li>
+<li><strong>num:</strong> Heart disease presence severity (We will change this to a target)
+<ul>
+<li>1: Yes</li>
+<li>0: No</li>
+</ul>
+</li>
+</ul>
 <p>Below is a quick visualization of the patient attributes:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/4/heart_graphs.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_graphs-xl.png 1600w"  alt="" width="747" height="1933"></figure>
-<p>. . . and here are the results!</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/4/results.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/results-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/results-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/results-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/results-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/results-xl.png 1600w"  alt="" width="719" height="364"></figure>This was my first ever machine learning model, so it was a great learning experience. I completed this summer 2022.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/4/heart_variables-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-xl.png 1600w"  alt="" width="747" height="1933"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/4/correlation.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/correlation-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-xl.png 1600w"  alt="" width="737" height="661"></figure>
+<p> </p>
+<p>. . . and here are the results! I went with just these 6 models.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/4/heart_results.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/heart_results-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-xl.png 1600w"  alt="" width="719" height="364"></figure>
+<p> </p>
+<p>Our logistic regression and ridge classifiers had a 93% accuracy! (however a bit unfortunate that we had more false negatives than positives).</p>
+<p>Overall, a patient having any major vessels colored by flouroscopy (1+) were the most at risk of heart disease (around 3 - 4% risk increase for each vessel). Male patients were also more at risk, as well as those with thallasemia and abnormal chest pain.</p>
+<p>I completed this Summer of 2022 and it's my first machine learning project. (I know that everyone and their mother has worked with this dataset, but it was more for the learning experience!)</p>
 <hr>
 <p> </p>
             ]]>
