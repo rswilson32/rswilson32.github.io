@@ -13,15 +13,15 @@
             "id": "https://rswilson32.github.io/metro/",
             "url": "https://rswilson32.github.io/metro/",
             "title": "METRO!!!",
-            "summary": " ",
-            "content_html": "<div id=\"plotly-animation-container\"><!-- Include the content of your 'bike_day_heatmap.html' file here --> <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"600\" style=\"width: 623px; height: 623px; border-radius: 20px;\" src=\"C:\\Users\\rswil\\Downloads\\projects\\metro-trips-2023-q1\\freq_map.html\" frameborder=\"0\"></iframe></div></div>",
+            "summary": "&lt;\\iframe&gt;",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"820\" height=\"820\" style=\"border-radius: 20px;\" class=\"post__image post__image--center\" src=\"https://rswilson32.github.io/media/posts/10/freq_annual.html\">\n\t\t&lt;\\iframe&gt;</iframe></div>",
             "author": {
                 "name": "Roger"
             },
             "tags": [
             ],
             "date_published": "2023-08-02T10:50:22-07:00",
-            "date_modified": "2023-08-24T13:53:02-07:00"
+            "date_modified": "2023-08-24T19:35:13-07:00"
         },
         {
             "id": "https://rswilson32.github.io/california-commuting-patterns-2/",
@@ -80,7 +80,7 @@
             "tags": [
             ],
             "date_published": "2022-11-27T23:12:51-08:00",
-            "date_modified": "2023-08-24T12:34:32-07:00"
+            "date_modified": "2023-08-24T18:56:03-07:00"
         },
         {
             "id": "https://rswilson32.github.io/heart-disease-analysis/",
