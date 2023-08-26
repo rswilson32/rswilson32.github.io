@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-08-24T19:59:26-07:00</updated>
+    <updated>2023-08-25T17:28:21-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,17 +17,30 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-08-24T19:59:26-07:00</updated>
+        <updated>2023-08-25T17:28:21-07:00</updated>
             <summary>
                 <![CDATA[
-                    never back down, never what? &lt;\iframe&gt;
+                    I've always loved biking, so I was ecstatic to get a free annual Metro Bikeshare pass this last spring. For a better explanation on what this means, this exerpt is from the metro bikeshare website: The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downtown&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>never back down, never what?</p>
-<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/freq_walk.html">
+                <p>I've always loved biking, so I was ecstatic to get a free annual Metro Bikeshare pass this last spring. For a better explanation on what this means, this exerpt is from the <a href="https://bikeshare.metro.net/about/" target="_blank" rel="noopener noreferrer">metro bikeshare website:</a></p>
+<blockquote>
+<p>The Metro Bike Share system makes bikes available 24/7, 365 days a year in Downtown LA, Central LA, Hollywood, North Hollywood and on the Westside. Metro Bike Share offers convenient round-the-clock access to a fleet of bicycles for short trips. Metro Bike Share is one of LA Metro's multiple public transportation options for Angelenos and visitors to get around.<br><br>Metro Bike Share is a fast, easy, and fun way to ride, anytime. Get a bike from any Metro Bike Share station, go for a ride, and properly return it. It’s easy — just like riding a bike!</p>
+</blockquote>
+<p>Since getting my membership, I've been able to bike to my classes, the grocery store, the gym, and more. It's faster than walking, I avoid traffic, and it's overall just fun! I've rarely had issues of crowded stations or empty stations at UCLA, and even if I did, there were always some nearby in Westwood.</p>
+<p>One weekend, my friend and I went to Santa Monica beach, and it was surprisingly a LOT harder to use Metro Bikeshare. Stations were often full and over half a mile away, and at the Metro E line station, there were more people waiting to lock a bike then to rent one!</p>
+<p>With this experience in mind, I wanted to study how popular Metro Bikeshare stations and routes were across Los Angeles. Using LA's <a href="https://bikeshare.metro.net/about/data/" target="_blank" rel="noopener noreferrer">public data</a>, this project is an analysis of Metro Bikeshare's demand over the past year.</p>
+<p> </p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/freq_map.html">
 		&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/freq_walk-2.html">
+		&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/freq_annual-2.html">
+		&lt;\iframe&gt;</iframe></div>
+<p> </p>
             ]]>
         </content>
     </entry>
