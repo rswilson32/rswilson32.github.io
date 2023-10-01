@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-09-30T16:57:46-07:00</updated>
+    <updated>2023-09-30T19:14:48-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-09-30T16:57:46-07:00</updated>
+        <updated>2023-09-30T19:14:48-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -36,6 +36,10 @@
 <p>With this experience in mind, I wanted to study how popular Metro Bikeshare stations and routes were across Los Angeles. Using LA's <a href="https://bikeshare.metro.net/about/data/" target="_blank" rel="noopener noreferrer">public data</a>, this project is an analysis of Metro Bikeshare's demand over the past year.</p>
 <p> </p>
 <p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/bike_cal.html">
+		&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">
+		&lt;\iframe&gt;</iframe></div>
 <div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/bike_avg_capacity.html">
 		&lt;\iframe&gt;</iframe></div>
 <div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/10/freq_map.html">
