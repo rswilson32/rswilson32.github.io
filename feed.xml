@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-10-29T19:02:57-07:00</updated>
+    <updated>2023-10-29T20:35:45-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-10-29T19:02:57-07:00</updated>
+        <updated>2023-10-29T20:35:45-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -39,40 +39,20 @@
 			&lt;\iframe&gt;</iframe></div></div>
 </div>
 <p>It's instantly noticable that Metro Bikeshare has gained popularity in the past year. An average of xx bikes were rented per day in 2021 (except for 900+ each day of September: was there some promotional?), but ever since, there were xxx bike...</p>
-<div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" class="centered" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">
-	&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" class="centered" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">
+		&lt;\iframe&gt;</iframe></div>
 <p>And one thing to keep in mind here is that Metro has always been adding new stations, which adds to increased popularity. The Burbank stations weren't built until January 2021, and the UCLA stations that I use weren't built until January of 2023. I decided to normalize the average number of rentals by month because of the extreme popularity of certain stations, but from before, it's noticable how much more popular Metro Bikeshare is now from just a two and a half years ago.</p>
 <p>Which brings me to my original question: In which regions is bikeshare demand higher than others, and how should Metro Bikeshare act?</p>
-<div class="FullPage">
-<div style="display: flex; justify-content: flex-end;">
-<p style="margin-right: 5px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
-<div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" src="https://rswilson32.github.io/media/posts/10/freq_map.html">
-			&lt;\iframe&gt;</iframe></div></div>
-</div>
-<div class="FullPage">
-<div style="display: flex; justify-content: flex-end;">
-<p style="margin-right: 5px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
-<div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" src="https://rswilson32.github.io/media/posts/10/freq_2.html">
-			&lt;\iframe&gt;</iframe></div></div>
-</div>
-<div class="FullPage">
-<div style="display: flex; justify-content: flex-end;">
-<p style="margin-right: 5px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
-<div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" src="https://rswilson32.github.io/media/posts/10/freq_19.html">
-			&lt;\iframe&gt;</iframe></div></div>
-</div>
-<div class="FullPage">
-<div style="display: flex; justify-content: flex-end;"><div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" src="https://rswilson32.github.io/media/posts/10/freq_walk.html">
-			&lt;\iframe&gt;</iframe></div>
-<p style="margin-left: 15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
-</div>
-</div>
-<div class="FullPage">
-<div style="display: flex; justify-content: flex-end;"><div class="post__iframe"><iframe loading="lazy" style="width: 620px; height: 620px;" scrolling="no" src="https://rswilson32.github.io/media/posts/10/freq_annual.html">
-			&lt;\iframe&gt;</iframe></div>
-<p style="margin-left: 15px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
-</div>
-</div>
+<div style="float: right; margin: 5px 0 5px 5px; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_map.html">&lt;\iframe&gt;</iframe></div></div>
+<p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
+<div style="float: right; margin: 5px 0 5px 5px; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_2.html">&lt;\iframe&gt;</iframe></div></div>
+<p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
+<div style="float: right; margin: 5px 0 5px 5px; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_19.html">&lt;\iframe&gt;</iframe></div></div>
+<p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
+<div style="float: left; margin: 5px 5px 5px 0; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_walk.html">&lt;\iframe&gt;</iframe></div></div>
+<p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
+<div style="float: left; margin: 5px 5px 5px 0; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_annual.html">&lt;\iframe&gt;</iframe></div></div>
+<p style="margin: 0;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce auctor vel odio non lacinia.</p>
             ]]>
         </content>
     </entry>
