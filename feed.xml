@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-11-04T00:16:19-07:00</updated>
+    <updated>2023-11-04T00:27:14-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-11-04T00:16:19-07:00</updated>
+        <updated>2023-11-04T00:27:14-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -75,7 +75,7 @@
 				iframe.height = "620";
 				iframe.scrolling = "no";
 				iframe.frameBorder = "0";
-				iframe.src = `C:\Users\rswil\Downloads\projects\metro-trips-data${selectedPlot}.html`;
+				iframe.src = `https://rswilson32.github.io/media/posts/10/${selectedPlot}.html`;
 				plotContainer.appendChild(iframe);
 			}
 		}
@@ -92,6 +92,12 @@
 <p style="margin: 0;">When we begin to filter by rental types, we get even more interesting results. A Metro bike rider has two options when renting a bike: they can either rent a bike on the spot, or use their TAP account with a membership (daily, monthly or annual). And if we look at just walk-up rentals, nearly all of them are at Santa Monica! In fact, over half of all rentals from stations 4214 and 4215 each day are from walk-up rentals. Given that Santa Monica, especially its Pier and beach, are big touristy attractions, we can guess that most of these rentals are tourists wanting to bike along beach sidewalks. And if they can't find a free station along the beach, they'll drop off their bike a few blocks in.</p>
 <div class="post__iframe"><iframe loading="lazy" width="800" height="300" style="border: 1; display: block; margin: auto;" src="https://rswilson32.github.io/media/posts/10/stacked.html">
 		&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_2.html">&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_19.html">&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_walk.html">&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_day.html">&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_month.html">&lt;\iframe&gt;</iframe></div>
+<div class="post__iframe"><iframe loading="lazy" style="display: none;" src="https://rswilson32.github.io/media/posts/10/freq_annual.html">&lt;\iframe&gt;</iframe></div>
             ]]>
         </content>
     </entry>
