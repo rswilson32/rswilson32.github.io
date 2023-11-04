@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-11-03T20:03:48-07:00</updated>
+    <updated>2023-11-03T20:08:49-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-11-03T20:03:48-07:00</updated>
+        <updated>2023-11-03T20:08:49-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -34,7 +34,7 @@
 <p>Since getting my membership, I've been able to bike to my classes, the grocery store, the gym, and more. It's faster than walking, I avoid traffic, and it's overall just fun! I've rarely had issues of crowded stations or empty stations at UCLA, and even if I did, there were always some nearby in Westwood.</p>
 <p>One weekend, my friend and I went to Santa Monica beach, and it was surprisingly a LOT harder to use Metro Bikeshare. Stations were often full and over half a mile away, and at the Metro E line station, there were more people waiting to lock a bike then to rent one!</p>
 <p>With this experience in mind, I wanted to study how popular Metro Bikeshare stations and routes were across Los Angeles. Using LA's <a href="https://bikeshare.metro.net/about/data/" target="_blank" rel="noopener noreferrer">public data</a>, this project is an analysis of Metro Bikeshare's demand over the past year.</p>
-<div class="post__iframe"><iframe loading="lazy" width="800" height="600" style="border: 1; display: block; margin: auto;" src="https://rswilson32.github.io/media/posts/10/bike_cal.html">&lt;\iframe&gt;</iframe></div>
+<div style="border-radius: 20px; overflow: hidden;"><div class="post__iframe"><iframe loading="lazy" width="800" height="600" style="border: 1; display: block; margin: auto;" src="https://rswilson32.github.io/media/posts/10/bike_cal.html">&lt;\iframe&gt;</iframe></div></div>
 <p>It's instantly noticeable that Metro Bikeshare has gained popularity in the past year. An average of xx bikes were rented per day in 2021 (except for 900+ each day of September: was there some promotional?), but ever since, there were xxx bike...</p>
 <div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border: 1; display: block; margin: auto;" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">&lt;\iframe&gt;</iframe></div>
 <p>And one thing to keep in mind here is that Metro has always been adding new stations, which adds to increased popularity. The Burbank stations weren't built until January 2021, and the UCLA stations that I use weren't built until January of 2023. I decided to normalize the average number of rentals by month because of the extreme popularity of certain stations, but from before, it's noticeable how much more popular Metro Bikeshare is now from just two and a half years ago.</p>
