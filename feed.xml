@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-11-02T12:36:09-07:00</updated>
+    <updated>2023-11-03T19:51:25-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-11-02T12:36:09-07:00</updated>
+        <updated>2023-11-03T19:51:25-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -34,47 +34,41 @@
 <p>Since getting my membership, I've been able to bike to my classes, the grocery store, the gym, and more. It's faster than walking, I avoid traffic, and it's overall just fun! I've rarely had issues of crowded stations or empty stations at UCLA, and even if I did, there were always some nearby in Westwood.</p>
 <p>One weekend, my friend and I went to Santa Monica beach, and it was surprisingly a LOT harder to use Metro Bikeshare. Stations were often full and over half a mile away, and at the Metro E line station, there were more people waiting to lock a bike then to rent one!</p>
 <p>With this experience in mind, I wanted to study how popular Metro Bikeshare stations and routes were across Los Angeles. Using LA's <a href="https://bikeshare.metro.net/about/data/" target="_blank" rel="noopener noreferrer">public data</a>, this project is an analysis of Metro Bikeshare's demand over the past year.</p>
-<div class="FullPage" style="text-align: center;">
-<div style="display: flex; justify-content: center;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" class="centered" src="https://rswilson32.github.io/media/posts/10/bike_cal.html">
-			&lt;\iframe&gt;</iframe></div></div>
-</div>
-<p>It's instantly noticable that Metro Bikeshare has gained popularity in the past year. An average of xx bikes were rented per day in 2021 (except for 900+ each day of September: was there some promotional?), but ever since, there were xxx bike...</p>
-<div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" class="centered" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">
-		&lt;\iframe&gt;</iframe></div>
-<p>And one thing to keep in mind here is that Metro has always been adding new stations, which adds to increased popularity. The Burbank stations weren't built until January 2021, and the UCLA stations that I use weren't built until January of 2023. I decided to normalize the average number of rentals by month because of the extreme popularity of certain stations, but from before, it's noticable how much more popular Metro Bikeshare is now from just a two and a half years ago.</p>
+<div style="justify-content: center; display: flex;"><div class="post__iframe"><iframe loading="lazy" width="800" height="600" style="width: 800px; height: 600px;" src="https://rswilson32.github.io/media/posts/10/bike_cal.html">&lt;\iframe&gt;</iframe></div></div>
+<p>It's instantly noticeable that Metro Bikeshare has gained popularity in the past year. An average of xx bikes were rented per day in 2021 (except for 900+ each day of September: was there some promotional?), but ever since, there were xxx bike...</p>
+<div style="justify-content: center; display: flex;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="width: 620px; height: 620px;" class="t" src="https://rswilson32.github.io/media/posts/10/station_popularity.html">&lt;\iframe&gt;</iframe></div></div>
+<p>And one thing to keep in mind here is that Metro has always been adding new stations, which adds to increased popularity. The Burbank stations weren't built until January 2021, and the UCLA stations that I use weren't built until January of 2023. I decided to normalize the average number of rentals by month because of the extreme popularity of certain stations, but from before, it's noticeable how much more popular Metro Bikeshare is now from just two and a half years ago.</p>
 <p>Which brings me to my original question: In which regions is bikeshare demand higher than others, and how should Metro Bikeshare act?</p>
 <p> </p>
 <div style="float: right; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_map.html">&lt;\iframe&gt;</iframe></div></div>
 <p style="margin: 0;">For the following visuals, I've decided to normalize the number of bike rentals per station for readability. And, if there are k stations, the k/2 most popular routes are graphed. By hovering over a station (dot), you get more information, including its station number, name, and average number of rentals per day. My code is available on my GitHub.</p>
 <p>It's clear to see that the most popular routes are along Santa Monica's oceanfront, UCLA's campus, Culver City, USC's campus, and downtown Los Angeles. Metro also divides these stations into 3 regions: Santa Monica (2), DTLA (9), and Burbank (1). We can focus on these regions for better analysis.</p>
 <p> </p>
-<p> </p>
-<p> </p>
-<div style="float: right; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_2.html">&lt;\iframe&gt;</iframe></div></div>
+<select id="plotDropdown1">
+<option value="freq_2">Region 2</option>
+<option value="freq_19">Region 1, 9</option>
+</select>
+<div id="plotContainer1" style="float: right; width: 60%;"></div>
 <p style="margin: 0;">By subsetting for region 2, almost all of the most frequent routes connect to the Downtown Santa Monica E Line station (station 4215) and Ocean Front walk &amp; Navy (station 4214), which have an average of 60 rentals a day! Seeing as Santa Monica is a touristy spot, my guess is that most of these rentals are by those interested in riding along the beach or through downtown, and not necessarily for communting (station 4544 at Dockweiler Beach, has on average 14 rentals per day. Seeing as its the southern-most station on the beach, we can assume that these trips aren't for commuting).</p>
 <p style="margin: 0;">It's also interesting that even though UCLA's stations were built relatively later, their routes are still very prominent. It would be great to build more stations in Westwood to encourage students that want to bike to class.</p>
-<p> </p>
-<div style="float: right; width: 60%;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/10/freq_19.html">&lt;\iframe&gt;</iframe></div></div>
 <p style="margin: 0;">If we focus on DTLA and Burbank, we see a spider-web of routes thorugh downtown, with 7th &amp; Flower (station 3005) being the most popular, with on average 38 rentals per day. USC is also a popular hub. I find it interesting there are not many popular routes in North Hollywood! They are relatively new stations, but still.</p>
 <p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<select id="plotDropdown">
+<select id="plotDropdown2">
 <option value="freq_walk">Walk-Up</option>
-<option value="freq_one_day_pass">Daily Pass</option>
-<option value="freq_monthly_pass">Monthly Pass</option>
+<option value="freq_day">Daily Pass</option>
+<option value="freq_month">Monthly Pass</option>
 <option value="freq_annual">Annual Pass</option>
 </select>
-<div id="plotContainer" style="float: left; width: 60%;"><!-- The selected plot will be displayed here --></div>
+<div id="plotContainer2" style="float: left; width: 60%;"></div>
 <p>
 <script>
-		const plotDropdown = document.getElementById("plotDropdown");
-		const plotContainer = document.getElementById("plotContainer");
+		const plotDropdown1 = document.getElementById("plotDropdown1");
+		const plotContainer1 = document.getElementById("plotContainer1");
 
-		plotDropdown.addEventListener("change", function() {
-			const selectedPlot = plotDropdown.value;
+		const plotDropdown2 = document.getElementById("plotDropdown2");
+		const plotContainer2 = document.getElementById("plotContainer2");
+
+		function updateIframe(selectedPlot, plotContainer) {
 			plotContainer.innerHTML = ""; // Clear the container
 
 			if (selectedPlot) {
@@ -86,12 +80,20 @@
 				iframe.src = `https://rswilson32.github.io/media/posts/10/${selectedPlot}.html`;
 				plotContainer.appendChild(iframe);
 			}
+		}
+
+		plotDropdown1.addEventListener("change", function() {
+			updateIframe(plotDropdown1.value, plotContainer1);
+		});
+
+		plotDropdown2.addEventListener("change", function() {
+			updateIframe(plotDropdown2.value, plotContainer2);
 		});
 	</script>
 </p>
 <p style="margin: 0;">When we begin to filter by rental types, we get even more interesting results. A Metro bike rider has two options when renting a bike: they can either rent a bike on the spot, or use their TAP account with a membership (daily, monthly or annual). And if we look at just walk-up rentals, nearly all of them are at Santa Monica! In fact, over half of all rentals from stations 4214 and 4215 each day are from walk-up rentals. Given that Santa Monica, especially its Pier and beach, are big touristy attractions, we can guess that most of these rentals are tourists wanting to bike along beach sidewalks. And if they can't find a free station along the beach, they'll drop off their bike a few blocks in.</p>
-<div style="display: flex; justify-content: center;"><div class="post__iframe"><iframe loading="lazy" width="620" height="620" style="border-radius: 20px;" class="centered" src="https://rswilson32.github.io/media/posts/10/stacked.html">
-		&lt;\iframe&gt;</iframe></div></div>
+<div style="justify-content: center; display: flex;"><div class="post__iframe"><iframe loading="lazy" width="800" height="400" style="width: 800px; height: 400px;" class="t" src="https://rswilson32.github.io/media/posts/10/stacked.html">
+    &lt;\iframe&gt;</iframe></div></div>
             ]]>
         </content>
     </entry>
