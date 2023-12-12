@@ -13,14 +13,16 @@
             "id": "https://rswilson32.github.io/la-tree-coverage-analysis/",
             "url": "https://rswilson32.github.io/la-tree-coverage-analysis/",
             "title": "LA Tree Coverage Analysis",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"500px\" src=\"https://storymaps.arcgis.com/stories/2b63b62a919048629a5b81f0a53e17c6?header\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"geolocation\"></iframe></div>",
+            "summary": "----&gt; click here &lt;----",
+            "content_html": "<p><a href=\"https://arcg.is/1f9XTz\" target=\"_blank\" rel=\"noopener noreferrer\">----&gt; click here &lt;----</a></p>",
+            "image": "https://rswilson32.github.io/media/posts/11/skyline.jpg",
             "author": {
                 "name": "Roger"
             },
             "tags": [
             ],
             "date_published": "2023-12-11T22:22:24-08:00",
-            "date_modified": "2023-12-11T22:22:24-08:00"
+            "date_modified": "2023-12-11T22:28:01-08:00"
         },
         {
             "id": "https://rswilson32.github.io/metro/",
