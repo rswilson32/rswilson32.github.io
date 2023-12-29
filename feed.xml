@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-12-28T17:01:48-08:00</updated>
+    <updated>2023-12-28T22:12:51-08:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -233,7 +233,7 @@
         <link href="https://rswilson32.github.io/datafest-2022/"/>
         <id>https://rswilson32.github.io/datafest-2022/</id>
 
-        <updated>2022-12-07T17:49:58-08:00</updated>
+        <updated>2023-12-28T22:12:51-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/6/datafest-2.png" alt="" />
@@ -284,128 +284,6 @@
 <p>This data set was accessed from <a href="https://data.chhs.ca.gov/dataset/transportation-to-work-2000-2006-2010/resource/87fa0619-708a-4d92-ba5d-879df338b46e">the California Health and Human Services Open Data Website</a>. They provided amazing data dictionaries, narrative examples, and research sources.</p>
 <p><a href="https://eriqande.github.io/rep-res-web/lectures/making-maps-with-R.html">Eric C. Anderson's GitHub repository</a> on making maps in R was an incredible source. I used this reference for all of my ggplot maps.</p>
 <p>I used this <a href="https://en.wikipedia.org/wiki/List_of_counties_in_California">Wikipedia article on Californian counties</a> for more great background information and its tables.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Heart Disease Analysis</title>
-        <author>
-            <name>Roger</name>
-        </author>
-        <link href="https://rswilson32.github.io/heart-disease-analysis/"/>
-        <id>https://rswilson32.github.io/heart-disease-analysis/</id>
-
-        <updated>2023-08-24T13:18:08-07:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
-                    This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/4/heart-2.jpg" alt="" />
-                <p>This dataset measures the presence of heart disease in 303 patients from the Cleveland Clinic and was donated in 1988. The data works with 14 attributes, such as cholesterol level, electrocardiographic results, artery health and more. This model predicts the presence of heart disease in a patient with 93% accuracy. This <a href="https://github.com/rswilson32/heart_disease_analysis"> Heart Disease ML project </a> taught me new visualization techniques, feature scaling, model analysis, and classification techniques. </p>
-<p>Our attributes:</p>
-<ul>
-<li><strong>age:</strong> The age of the patient</li>
-<li><strong>sex:</strong> The sex of the patient
-<ul>
-<li>1: Male</li>
-<li>0: Female</li>
-</ul>
-</li>
-<li><strong>cp:</strong> Chest pain type
-<ul>
-<li>1: Typical angina</li>
-<li>2: Atypical angina</li>
-<li>3: Non-anginal pain</li>
-<li>4: Asymptomatic</li>
-</ul>
-</li>
-<li><strong>trestbps:</strong> Resting blood pressure (in mm Hg on admission to the hospital)</li>
-<li><strong>chol:</strong> Serum cholestoral in mg/dl</li>
-<li><strong>fbs:</strong> Fasting blood sugar &gt; 120 mg/dl
-<ul>
-<li>1: True</li>
-<li>0: False</li>
-</ul>
-</li>
-<li><strong>restecg:</strong> Resting electrocardiographic results
-<ul>
-<li>0: Normal</li>
-<li>1: Having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of &gt; 0.05 mV)</li>
-<li>2: Showing probable or definite left ventricular hypertrophy by Estes' criteria</li>
-</ul>
-</li>
-<li><strong>thalach:</strong> Maximum heart rate achieved</li>
-<li><strong>exang:</strong> Exercise-induced angina
-<ul>
-<li>1: Yes</li>
-<li>0: No</li>
-</ul>
-</li>
-<li><strong>oldpeak:</strong> ST depression induced by exercise relative to rest</li>
-<li><strong>slope:</strong> The slope of the peak exercise ST segment
-<ul>
-<li>1: Upsloping</li>
-<li>2: Flat</li>
-<li>3: Downsloping</li>
-</ul>
-</li>
-<li><strong>ca:</strong> Number of major vessels (0-3) colored by fluoroscopy</li>
-<li><strong>thal:</strong> A blood disorder called thalassemia
-<ul>
-<li>3: Fixed defect (no blood flow in some part of the heart)</li>
-<li>6: Normal blood flow</li>
-<li>7: Reversible defect (a blood flow is observed but it is not normal)</li>
-</ul>
-</li>
-<li><strong>num:</strong> Heart disease presence severity (We will change this to a target)
-<ul>
-<li>1: Yes</li>
-<li>0: No</li>
-</ul>
-</li>
-</ul>
-<p>Below is a quick visualization of the patient attributes:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/4/heart_variables-2.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_variables-2-xl.png 1600w"  alt="" width="747" height="1933"></figure>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/4/correlation.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/correlation-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/correlation-xl.png 1600w"  alt="" width="737" height="661"></figure>
-<p> </p>
-<p>. . . and here are the results! I went with just these 6 models.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  style="border-radius: 20px;" src="https://rswilson32.github.io/media/posts/4/heart_results.png" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/4/responsive/heart_results-xs.png 384w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-sm.png 600w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-md.png 768w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-lg.png 1200w ,https://rswilson32.github.io/media/posts/4/responsive/heart_results-xl.png 1600w"  alt="" width="719" height="364"></figure>
-<p> </p>
-<p>Our logistic regression and ridge classifiers had a 93% accuracy! (however a bit unfortunate that we had more false negatives than positives).</p>
-<p>Overall, a patient having any major vessels colored by flouroscopy (1+) were the most at risk of heart disease (around 3 - 4% risk increase for each vessel). Male patients were also more at risk, as well as those with thallasemia and abnormal chest pain.</p>
-<p>I completed this Summer of 2022 and it's my first machine learning project. (I know that everyone and their mother has worked with this dataset, but it was more for the learning experience!)</p>
-<hr>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title> BAC model</title>
-        <author>
-            <name>Roger</name>
-        </author>
-        <link href="https://rswilson32.github.io/projects/"/>
-        <id>https://rswilson32.github.io/projects/</id>
-
-        <updated>2022-12-08T10:06:19-08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rswilson32.github.io/media/posts/2/drinking.jpg" alt="" />
-                    This Python model monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from Calculus &amp; Mathematica by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://rswilson32.github.io/media/posts/2/drinking.jpg" alt="" />
-                <p>This <a href="https://github.com/rswilson32/BAC">Python model</a> monitors Blood Alcohol Content (BAC) levels over time, based on a user’s weight, gender, drink type, and drinking frequency. The data for this project is from <i> Calculus &amp; Mathematica </i> by Bill Davis, William Davis, Horacio Porta, and J. Jerry Uhl. It was published in 1994 by Addison Wesley Longman Inc. I accessed it through <i> A Course in Mathematical Modeling </i> by Douglas D. Mooney and Randall Swift, published by The Mathematical Association of America, 1999. </p>
-<p>Here's an example:</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/2/example_BAC.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/2/responsive/example_BAC-xs.jpg 384w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-sm.jpg 600w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-md.jpg 768w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-lg.jpg 1200w ,https://rswilson32.github.io/media/posts/2/responsive/example_BAC-xl.jpg 1600w"  alt="" width="630" height="455"></figure>
-<hr>
-<h4> </h4>
             ]]>
         </content>
     </entry>
