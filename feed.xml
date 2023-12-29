@@ -3,12 +3,47 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2023-12-13T00:18:49-08:00</updated>
+    <updated>2023-12-28T17:01:48-08:00</updated>
     <author>
         <name>Roger</name>
     </author>
     <id>https://rswilson32.github.io</id>
 
+    <entry>
+        <title>ASL Alphabet Recognition Model</title>
+        <author>
+            <name>Roger</name>
+        </author>
+        <link href="https://rswilson32.github.io/asl-alphabet-recognition-model/"/>
+        <id>https://rswilson32.github.io/asl-alphabet-recognition-model/</id>
+
+        <updated>2023-12-28T17:01:48-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rswilson32.github.io/media/posts/12/american_sign_language-2.PNG" alt="" />
+                    The Project This model classifies images of the American Sign Language (ASL) alphabet. According to the National Institute of Health, over 860,000 North Americans use ASL either as a primary or secondary language as of 2006, and we hope that our model can contribute to making communication more accessible for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rswilson32.github.io/media/posts/12/american_sign_language-2.PNG" alt="" />
+                <div class="container-lg px-3 my-5 markdown-body">
+<h3 id="the-project">The Project<a class="anchorjs-link " href="https://rswilson32.github.io/ASL-MNIST-recognition-model/#the-project" aria-label="Anchor" data-anchorjs-icon=""></a></h3>
+<p>This model classifies images of the American Sign Language (ASL) alphabet. According to the National Institute of Health, over 860,000 North Americans use ASL either as a primary or secondary language as of 2006, and we hope that our model can contribute to making communication more accessible for individuals who sign. This was my final project for my machine learning class at UCLA. While it was a group project, we worked on creating three separate convolutional neural networks (CNN) to compare different architectures and their performances on our data. The following code and opencv program were my contributions. Since we were developing an image recognition model, convolutional neural networks were the natural choice as they are flexible, and we need a model that is invariant under translation of the input. We believe that using convolutional neural networks will maximize our overall image recognition accuracy.</p>
+<h3 id="the-data">Data<a class="anchorjs-link " href="https://rswilson32.github.io/ASL-MNIST-recognition-model/#the-data" aria-label="Anchor" data-anchorjs-icon=""></a></h3>
+<p>The training and testing data is from the Sign Language MNIST data, which contains 27,455 training images and 7,712 testing images. Each training and test case represents a label (0-25) as a one-to-one map for each alphabetic letter A-Z (and no cases for 9=J or 25=Z because they involve motions). Each 28x28 pixel image is represented as a vector with grayscale values between 0-255. The original hand gesture image data represented multiple users repeating the gesture against different backgrounds. To create new data, “an image pipeline was used based on ImageMagick and included cropping to hands-only, gray-scaling, resizing, and then creating at least 50+ variations to enlarge the quantity”.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/12/american_sign_language.PNG" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/12/responsive/american_sign_language-xs.PNG 384w ,https://rswilson32.github.io/media/posts/12/responsive/american_sign_language-sm.PNG 600w ,https://rswilson32.github.io/media/posts/12/responsive/american_sign_language-md.PNG 768w ,https://rswilson32.github.io/media/posts/12/responsive/american_sign_language-lg.PNG 1200w ,https://rswilson32.github.io/media/posts/12/responsive/american_sign_language-xl.PNG 1600w"  alt="" width="876" height="489"></figure>
+<h3 id="model">Model<a class="anchorjs-link " href="https://rswilson32.github.io/ASL-MNIST-recognition-model/#model" aria-label="Anchor" data-anchorjs-icon=""></a></h3>
+<p>The model is built in PyTorch with four convolution layers and a fully connected layer at the end. I also employed max pooling to down-sample our feature maps. At the end of our pipeline, the network includes two fully connected layers followed by batch normalization and dropout. I used dropout in the fully connected layer instead of in the convolutions. The first convolutional layer processes a single input channel, gradually increasing the number of channels in the next layers. ReLU activation functions are applied throughout the network. A dropout rate of 0.2 is also applied at the end. Through hyperparameter tuning, this CNN achieved 98.2% accuracy with a batch size of 64, Adam optimizer, a learning rate of 0.001, and 8 epochs.</p>
+<h3 id="camera-application">Camera Application<a class="anchorjs-link " href="https://rswilson32.github.io/ASL-MNIST-recognition-model/#camera-application" aria-label="Anchor" data-anchorjs-icon=""></a></h3>
+<p>We also implemented a real-time ASL alphabet camera recognition system using the opencv library designed for computer vision and my trained model’s weights. The program recognizes images in a given region of interest (ROI) which we designate with a green square. The frame is then captured, set to gray-scale, and blurred. We are then able to classify the hand gesture using our previously trained CNN.</p>
+<h3>Code</h3>
+<p>The code can be found on <a href="https://github.com/rswilson32/ASL-MNIST-recognition-model" target="_blank" rel="noopener noreferrer">this GitHub repository</a>. To run the camera application, download <a href="https://github.com/rswilson32/ASL-MNIST-recognition-model/blob/main/camera_recognition.py" target="_blank" rel="noopener noreferrer">camera_application.py</a>, which has the CNN, classifying function and camera function, and <a href="https://github.com/rswilson32/ASL-MNIST-recognition-model/blob/main/cnn156.pt" target="_blank" rel="noopener noreferrer">cnn156.pt</a>, the PyTorch parameters for the CNN. simply running 'python camera_application.py' in your console will start the camera.</p>
+</div>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://rswilson32.github.io/media/posts/12/aslmath.PNG" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://rswilson32.github.io/media/posts/12/responsive/aslmath-xs.PNG 384w ,https://rswilson32.github.io/media/posts/12/responsive/aslmath-sm.PNG 600w ,https://rswilson32.github.io/media/posts/12/responsive/aslmath-md.PNG 768w ,https://rswilson32.github.io/media/posts/12/responsive/aslmath-lg.PNG 1200w ,https://rswilson32.github.io/media/posts/12/responsive/aslmath-xl.PNG 1600w"  alt="" width="843" height="246"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>LA Tree Coverage Analysis</title>
         <author>
@@ -39,7 +74,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2023-12-13T00:18:49-08:00</updated>
+        <updated>2023-12-13T00:23:33-08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
