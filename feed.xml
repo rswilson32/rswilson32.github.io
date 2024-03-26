@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2024-03-25T17:03:57-07:00</updated>
+    <updated>2024-03-25T22:18:30-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,15 +17,17 @@
         <link href="https://rswilson32.github.io/live-metro-bike-availability-map/"/>
         <id>https://rswilson32.github.io/live-metro-bike-availability-map/</id>
 
-        <updated>2024-03-25T17:03:57-07:00</updated>
+        <updated>2024-03-25T22:18:30-07:00</updated>
             <summary>
                 <![CDATA[
-                    &lt;\iframe&gt;
+                    &lt;\iframe&gt; scrolling="no"&gt;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="800" height="800" style="width: 800px; height: 800px;" src="https://rswilson32.github.io/media/posts/13/bikemap-2.html">&lt;\iframe&gt;</iframe></div>
+                <div style="display: flex; justify-content: center; align-items: center; overflow: hidden;">
+<div style="max-width: 1000px; max-height: 800px;"><div class="post__iframe"><iframe loading="lazy" style="overflow-y: hidden; width: 700px; height: 500px;" src="https://rswilson32.github.io/media/posts/13/bikemap-4.html">&lt;\iframe&gt; scrolling="no"&gt;</iframe></div></div>
+</div>
             ]]>
         </content>
     </entry>
