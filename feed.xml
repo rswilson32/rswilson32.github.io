@@ -3,12 +3,32 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2024-03-14T22:13:32-07:00</updated>
+    <updated>2024-03-25T17:03:57-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
     <id>https://rswilson32.github.io</id>
 
+    <entry>
+        <title>Live Metro Bike Availability Map</title>
+        <author>
+            <name>Roger</name>
+        </author>
+        <link href="https://rswilson32.github.io/live-metro-bike-availability-map/"/>
+        <id>https://rswilson32.github.io/live-metro-bike-availability-map/</id>
+
+        <updated>2024-03-25T17:03:57-07:00</updated>
+            <summary>
+                <![CDATA[
+                    &lt;\iframe&gt;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="800" height="800" style="width: 800px; height: 800px;" src="https://rswilson32.github.io/media/posts/13/bikemap-2.html">&lt;\iframe&gt;</iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ASL Alphabet Recognition Model</title>
         <author>
