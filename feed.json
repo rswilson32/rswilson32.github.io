@@ -14,14 +14,14 @@
             "url": "https://rswilson32.github.io/live-metro-bike-availability-map/",
             "title": "Live Metro Bike Availability Map",
             "summary": "&lt;\\iframe&gt; scrolling=\"no\"&gt;",
-            "content_html": "<div style=\"display: flex; justify-content: center; align-items: center; overflow: hidden;\">\n<div style=\"max-width: 1000px; max-height: 800px;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"overflow-y: hidden; width: 700px; height: 500px;\" src=\"https://rswilson32.github.io/media/posts/13/bikemap-4.html\">&lt;\\iframe&gt; scrolling=\"no\"&gt;</iframe></div></div>\n</div>",
+            "content_html": "<div style=\"display: flex; justify-content: center; align-items: center; overflow: hidden;\">\n<div style=\"max-width: 700px; max-height: 500px;\"><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"700\" height=\"500\" style=\"width: 700px; height: 500px;\" src=\"https://rswilson32.github.io/media/posts/13/bikemap.html\">&lt;\\iframe&gt; scrolling=\"no\"&gt;</iframe></div></div>\n</div>",
             "author": {
                 "name": "Roger"
             },
             "tags": [
             ],
             "date_published": "2024-03-22T14:58:11-07:00",
-            "date_modified": "2024-03-25T22:18:30-07:00"
+            "date_modified": "2024-03-25T22:34:53-07:00"
         },
         {
             "id": "https://rswilson32.github.io/asl-alphabet-recognition-model/",
