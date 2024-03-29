@@ -3,12 +3,49 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2024-03-26T10:11:21-07:00</updated>
+    <updated>2024-03-29T12:42:21-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
     <id>https://rswilson32.github.io</id>
 
+    <entry>
+        <title>Santa Maria de Sar Model</title>
+        <author>
+            <name>Roger</name>
+        </author>
+        <link href="https://rswilson32.github.io/santa-maria-de-sar-model/"/>
+        <id>https://rswilson32.github.io/santa-maria-de-sar-model/</id>
+
+        <updated>2024-03-29T12:42:21-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rswilson32.github.io/media/posts/14/Sar.png" alt="" />
+                    Vectorworks Model This was my capstone project for the Digital Humanities minor. Following the theme of digital reconstruction, we rebuilt the Santa Mariaa de Sar Church along el Camino de Santiago in Western Spain. The church was built in the early 12th century, but by being near a river bend,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://rswilson32.github.io/media/posts/14/Sar.png" alt="" />
+                <p><a href="https://cloud.vectorworks.net/links/DrDpWnoDq3qkadLe/" target="_blank" rel="noopener noreferrer">Vectorworks Model</a></p>
+<p>This was my capstone project for the Digital Humanities minor. Following the theme of digital reconstruction, we rebuilt the Santa Mariaa de Sar Church along el Camino de Santiago in Western Spain. The church was built in the early 12th century, but by being near a river bend, as substantially folded in due to its marshy foundation. Extensive remodelling was conducted, particularly in the 18th century, to add flying buttresses for support and redesigning and elevating the main entrance façade. My group and I decided to focus our reconstruction of exterior elements of the nave to be as original as possible, including decorative elements: west façade and north doors, windows,  and wall textures, and nave roofing.</p>
+<p>We used the following plans based on the 18th century remodelling:</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://rswilson32.github.io/media/posts/14/gallery/North-Elevation.png" data-size="4062x2342"><img loading="lazy" src="https://rswilson32.github.io/media/posts/14/gallery/North-Elevation-thumbnail.png" alt="" width="768" height="443"></a>
+<figcaption>West Elevation</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://rswilson32.github.io/media/posts/14/gallery/Plan.png" data-size="3652x2516"><img loading="lazy" src="https://rswilson32.github.io/media/posts/14/gallery/Plan-thumbnail.png" alt="" width="768" height="529"></a>
+<figcaption>Floor Plan</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://rswilson32.github.io/media/posts/14/gallery/West-Elevation.png" data-size="3858x2342"><img loading="lazy" src="https://rswilson32.github.io/media/posts/14/gallery/West-Elevation-thumbnail.png" alt="" width="768" height="466"></a>
+<figcaption>North Elecation</figcaption>
+</figure>
+</div></div>
+<p>Our model reflects the original foundation, prior to the addition of the flying buttresses. We also corrected the north roof elevation and rose windows. The East elevation also had no architectural plan, so we had to do more research for this section.</p>
+<p>Overall, Vectorworks had a steep learning curve at first, but it's a very versatile tool for 3D modelling.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Live Metro Bike Availability Map</title>
         <author>
