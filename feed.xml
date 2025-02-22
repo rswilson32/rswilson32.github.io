@@ -3,12 +3,51 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2024-03-29T12:42:21-07:00</updated>
+    <updated>2025-02-21T19:25:10-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
     <id>https://rswilson32.github.io</id>
 
+    <entry>
+        <title>MBTA Bus Network Analysis</title>
+        <author>
+            <name>Roger</name>
+        </author>
+        <link href="https://rswilson32.github.io/mbta-bus-network-analysis/"/>
+        <id>https://rswilson32.github.io/mbta-bus-network-analysis/</id>
+
+        <updated>2025-02-21T19:25:10-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/stops.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/twenty.html"></iframe></div></div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/oldbetweenness.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/newbetweenness.html"></iframe></div></div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/oldpagerank.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/newpagerank.html"></iframe></div></div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/oldefficiency.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/newefficiency.html"></iframe></div></div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/oldboston.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/newboston.html"></iframe></div></div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/oldlouvain.html"></iframe></div></div>
+<div style="width: 48%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/newlouvain.html"></iframe></div></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Santa Maria de Sar Model</title>
         <author>
@@ -17,7 +56,7 @@
         <link href="https://rswilson32.github.io/santa-maria-de-sar-model/"/>
         <id>https://rswilson32.github.io/santa-maria-de-sar-model/</id>
 
-        <updated>2024-03-29T12:42:21-07:00</updated>
+        <updated>2024-03-29T13:42:21-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/14/Sar.png" alt="" />
@@ -54,7 +93,7 @@
         <link href="https://rswilson32.github.io/live-metro-bike-availability-map/"/>
         <id>https://rswilson32.github.io/live-metro-bike-availability-map/</id>
 
-        <updated>2024-03-26T10:11:21-07:00</updated>
+        <updated>2024-03-26T11:11:21-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/13/MBS-2.png" alt="" />
@@ -78,7 +117,7 @@
         <link href="https://rswilson32.github.io/asl-alphabet-recognition-model/"/>
         <id>https://rswilson32.github.io/asl-alphabet-recognition-model/</id>
 
-        <updated>2023-12-28T17:01:48-08:00</updated>
+        <updated>2023-12-28T18:01:48-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/12/american_sign_language-2.PNG" alt="" />
@@ -113,7 +152,7 @@
         <link href="https://rswilson32.github.io/la-tree-coverage-analysis/"/>
         <id>https://rswilson32.github.io/la-tree-coverage-analysis/</id>
 
-        <updated>2023-12-13T00:17:07-08:00</updated>
+        <updated>2023-12-13T01:17:07-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/11/skyline-2.jpg" alt="" />
@@ -135,7 +174,7 @@
         <link href="https://rswilson32.github.io/metro/"/>
         <id>https://rswilson32.github.io/metro/</id>
 
-        <updated>2024-03-14T22:13:32-07:00</updated>
+        <updated>2024-03-14T23:13:32-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/10/mbs-4.png" alt="" />
@@ -244,7 +283,7 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns-2/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns-2/</id>
 
-        <updated>2023-08-24T12:35:45-07:00</updated>
+        <updated>2023-08-24T13:35:45-06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/9/biking.webp" alt="" />
@@ -276,7 +315,7 @@
         <link href="https://rswilson32.github.io/fowler-analysis/"/>
         <id>https://rswilson32.github.io/fowler-analysis/</id>
 
-        <updated>2022-12-08T09:47:53-08:00</updated>
+        <updated>2022-12-08T10:47:53-07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -294,7 +333,7 @@
         <link href="https://rswilson32.github.io/datafest-2022/"/>
         <id>https://rswilson32.github.io/datafest-2022/</id>
 
-        <updated>2023-12-28T22:12:51-08:00</updated>
+        <updated>2023-12-28T23:12:51-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/6/datafest-2.png" alt="" />
@@ -318,7 +357,7 @@
         <link href="https://rswilson32.github.io/california-commuting-patterns/"/>
         <id>https://rswilson32.github.io/california-commuting-patterns/</id>
 
-        <updated>2023-11-08T13:31:00-08:00</updated>
+        <updated>2023-11-08T14:31:00-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rswilson32.github.io/media/posts/5/traffic-2.jpg" alt="" />
