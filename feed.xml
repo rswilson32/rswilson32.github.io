@@ -3,7 +3,7 @@
     <title>rswilson32.github.io</title>
     <link href="https://rswilson32.github.io/feed.xml" rel="self" />
     <link href="https://rswilson32.github.io" />
-    <updated>2025-02-21T19:53:04-07:00</updated>
+    <updated>2025-02-21T19:57:56-07:00</updated>
     <author>
         <name>Roger</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rswilson32.github.io/mbta-bus-network-analysis/"/>
         <id>https://rswilson32.github.io/mbta-bus-network-analysis/</id>
 
-        <updated>2025-02-21T19:53:04-07:00</updated>
+        <updated>2025-02-21T19:57:56-07:00</updated>
             <summary>
                 <![CDATA[
                     This study investigates the Massachusetts Bay Transportation Authority (MBTA) bus network, comparing the current and proposed route structures to evaluate potential improvements in efficiency, connectivity, and commuter experience. Data were collected from the MBTA Open Data Portal and 2022 interactive map, then cleaned and standardized. The network was modeled with&hellip;
@@ -26,6 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>This study investigates the Massachusetts Bay Transportation Authority (MBTA) bus network, comparing the current and proposed route structures to evaluate potential improvements in efficiency, connectivity, and commuter experience. Data were collected from the MBTA Open Data Portal and 2022 interactive map, then cleaned and standardized. The network was modeled with nodes representing bus stops and edges as routes, weighted by travel times. Using network analysis techniques, including community detection and efficiency metrics, we assessed the performance of both networks. The findings indicate that the proposed network offers improved service reliability, simplified routes, and enhanced connectivity. These improvements are expected to significantly enhance the commuter experience and support urban development in Greater Boston. Future research should focus on real-world implementation challenges and incorporate additional transit modes for a comprehensive analysis.</p>
+<p>The paper is featured on my LinkedIn page. The following are the interactive maps that are static in the paper.</p>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 <div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/stops.html"></iframe></div></div>
 <div style="width: 100%;"><div class="post__iframe"><iframe loading="lazy" width="100%" height="620" scrolling="no" frameborder="0" src="https://rswilson32.github.io/media/posts/15/twenty.html"></iframe></div></div>
